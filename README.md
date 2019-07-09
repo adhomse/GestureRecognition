@@ -4,10 +4,6 @@ More custom gestures can be added easily by tinkering little bit with the code.
 
 Requirements: Python 3.5 ,Keras 2.0.2 , Tensorflow 1.2.1 , OpenCV 3.2, numpy 1.11.0   
 
-## Demo:
-
-![alt tag](https://raw.githubusercontent.com/yugrocks/Hand-Gesture-Recognizer/master/Demo2.gif)  
-
 ### Usage:   
 
 $ python main.py  
